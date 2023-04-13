@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @NiroshanR
 - 👀 I’m interested in Web Development and Software Development
 - 🌱 I’m currently learning Full stack Web Development
+-     Learning Java
 
 
 <!---
