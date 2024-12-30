@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Niroshan Ragulesan</h1>
 <h3 align="center">A passionate web developer</h3>
 
-<img align="right" width = "400" height = "400" src="https://img.freepik.com/free-vector/cute-man-playing-game-computer-cartoon-vector-icon-illustration-people-technology-icon-isolated_138676-5731.jpg?t=st=1735577631~exp=1735581231~hmac=6772b97a3061df253436d6043886541d6ee3f5f4fa18dde783791d9ea2a273df&w=740" alt="boy coding">
+<img align="right" width = "400" src="https://img.freepik.com/free-vector/cute-man-playing-game-computer-cartoon-vector-icon-illustration-people-technology-icon-isolated_138676-5731.jpg?t=st=1735577631~exp=1735581231~hmac=6772b97a3061df253436d6043886541d6ee3f5f4fa18dde783791d9ea2a273df&w=740" alt="boy coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=niroshanr&label=Profile%20views&color=0e75b6&style=flat" alt="niroshanr" /> </p>
 
